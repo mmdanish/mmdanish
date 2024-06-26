@@ -1,9 +1,9 @@
-  ################################ Hi 👋,I'm Mohammed Danish
+ Hi 👋,I'm Mohammed Danish
 
 
  I’m a passionate MERN stack web development intern currently enhancing my skills and gaining hands-on experience in full-stack development.
 
-Here are some ideas to get you started:
+ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a MERN Stack Web Development Intern ...
 - 🌱 I’m currently learning 
