@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me  
 - 🔭 I’m currently working as a **Frontend Developer**  
-- 🌱 I’m learning **Python for scalable backend development**  
+- 🌱 I’m learning **Next.js for scalable web development**  
 - 💬 Ask me about **MERN Stack & Web Development**  
 - 👨‍💻 All of my projects are available at [Portfolio](https://personel-portfolio.vercel.app)  
 - 📫 Reach me at **mhddanish567@gmail.com**  
@@ -30,7 +30,7 @@
 
 ## 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,nodejs,express,mongodb,mysql,postgres,java,php,c,git,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,nextjs,nodejs,express,mongodb,mysql,postgres,c,git,figma,postman" />
 </p>
 
 ---
